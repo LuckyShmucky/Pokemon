@@ -5,7 +5,9 @@
 The Pokemon API application I am making is to enhance my ability to make a React application that utilizes Redux, Tailwindcss and Nextjs.
 
 ### To Do List
--[x] Configure Tailwindcss
--[ ] Incorporate redux for state management
+-[x] Configure Tailwindcss 
+<>
+-[x] Incorporate redux for state management
+<>
 -[ ] Add links for multiple pages
 # Pokemon
