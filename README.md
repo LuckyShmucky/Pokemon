@@ -14,4 +14,4 @@ The Pokemon API application I am making is to enhance my ability to make a React
       <>
 - [ ] Add links for multiple pages
 
-#### Navbar is styled dynamically, but search bar is not positioned correctly
+
